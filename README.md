@@ -1,5 +1,5 @@
-# hello-world
-Trying to figure stuff out
+## hello-world
+#Trying to figure stuff out.
 
 It's hard to write something about myself and not be boring.
 
